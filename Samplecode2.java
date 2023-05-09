@@ -1,4 +1,5 @@
 a=2
 b=4
-c=a+b
+c=10
+d=a+b+c
 s.o.p(c)
